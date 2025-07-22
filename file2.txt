@@ -1,1 +1,1 @@
-hello file2
+record updated in file2.txt
